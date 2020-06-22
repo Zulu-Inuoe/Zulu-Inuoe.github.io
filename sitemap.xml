@@ -2,8 +2,10 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://zulu.inuoe.com/about/</loc><lastmod>2020-06-22T10:00:36-04:00</lastmod></url><url>
+            <loc>https://zulu.inuoe.com/tags/personal/</loc><lastmod>2020-06-22T10:00:36-04:00</lastmod></url><url>
+            <loc>https://zulu.inuoe.com/</loc><lastmod>2020-06-22T10:00:36-04:00</lastmod></url><url>
+            <loc>https://zulu.inuoe.com/tags/</loc><lastmod>2020-06-22T10:00:36-04:00</lastmod></url><url>
             <loc>https://zulu.inuoe.com/posts/hello-world/</loc><lastmod>2020-06-21T13:28:41-04:00</lastmod></url><url>
             <loc>https://zulu.inuoe.com/posts/</loc><lastmod>2020-06-21T13:28:41-04:00</lastmod></url><url>
-            <loc>https://zulu.inuoe.com/</loc><lastmod>2020-06-21T13:28:41-04:00</lastmod></url><url>
-            <loc>https://zulu.inuoe.com/categories/</loc></url><url>
-            <loc>https://zulu.inuoe.com/tags/</loc></url></urlset>
+            <loc>https://zulu.inuoe.com/categories/</loc></url></urlset>
